@@ -1,8 +1,7 @@
 Reconstruction_of_GWMF_using_ML_ERA5
 =======
 
-
-|DOI|
+[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10699282.svg)
 
 This repository contains the codes and information for the manuscript entitled "Reconstructing gravity wave momentum fluxes using ML and input from ERA5".
 
